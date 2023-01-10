@@ -213,7 +213,7 @@ img{
 
 /*========== CLASS CSS ==========*/
 .section{
-  padding: 1.5rem 0;
+  padding: 0.5rem 0;
 }
 
 .section-title{
@@ -353,7 +353,7 @@ img{
 }
 
 .home__address{
-  gap: 1rem;
+  gap: .7rem;
 }
 
 .home__information{
